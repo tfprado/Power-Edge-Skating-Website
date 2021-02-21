@@ -1,0 +1,18 @@
+1613862396a:1:{s:26:"training/group-skating.htm";a:11:{s:8:"fileName";s:26:"training/group-skating.htm";s:7:"content";s:590:"title = "Power Edge Classes"
+url = "/group-skating"
+layout = "default"
+meta_description = "Power Edge Skating offers group skating lessons designed for all levels of hockey players, with a focus on teaching the technical side of skating which impacts the skaters balance, control, agility and power. Contact us now to find out more!"
+is_hidden = 1
+
+[proEventCalendar]
+eventpage = "calendar/events"
+style = "responsive"
+calendar = 2
+==
+<div class="top-spacer"></div>
+<h2 class="text-center">Coming soon!</h2>
+{% component 'proEventCalendar' %}
+<div class="bottom-spacer"></div>";s:5:"mtime";i:1610126033;s:6:"markup";s:144:"<div class="top-spacer"></div>
+<h2 class="text-center">Coming soon!</h2>
+{% component 'proEventCalendar' %}
+<div class="bottom-spacer"></div>";s:4:"code";N;s:5:"title";s:18:"Power Edge Classes";s:3:"url";s:14:"/group-skating";s:6:"layout";s:7:"default";s:16:"meta_description";s:241:"Power Edge Skating offers group skating lessons designed for all levels of hockey players, with a focus on teaching the technical side of skating which impacts the skaters balance, control, agility and power. Contact us now to find out more!";s:9:"is_hidden";s:1:"1";s:16:"proEventCalendar";a:3:{s:9:"eventpage";s:15:"calendar/events";s:5:"style";s:10:"responsive";s:8:"calendar";s:1:"2";}}}

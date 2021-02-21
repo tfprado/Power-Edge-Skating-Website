@@ -1,0 +1,269 @@
+1613862394a:1:{s:24:"about-us-our-coaches.htm";a:7:{s:8:"fileName";s:24:"about-us-our-coaches.htm";s:7:"content";s:4919:"[viewBag]
+title = "Figure Skating Coaches"
+url = "/about-us/coaches"
+layout = "regular-navigation"
+is_hidden = 1
+navigation_hidden = 1
+==
+<figure data-snippet="page-title">&nbsp;</figure>
+<div class="row d-flex justify-content-center">
+	<div class="col-12 col-sm-6 col-lg-3 mb-4">
+		<div class="card card-coach h-100 text-center mx-auto" style="max-width: 300px;"><img class="card-img-top fr-fic fr-dii" src="/storage/app/media/people/jody-2.jpg" alt="">
+			<div class="card-body">
+
+				<h4 class="card-title">Jodi Figliomeni</h4>
+
+				<h6 class="card-subtitle mb-2 text-muted text-center">Director | Head Coach
+					<br>Edge Specialist</h6>
+
+				<p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus aut mollitia eum ipsum fugiat odio officiis odit.</p>
+			</div>
+			<div class="card-footer"><a href="#">name@example.com</a></div></div></div>
+	<div class="col-12 col-sm-6 col-lg-3 mb-4">
+		<div class="card card-coach h-100 text-center mx-auto" style="max-width: 300px;"><img class="card-img-top fr-fic fr-dii" src="/storage/app/media/people/karen-2.jpg" alt="">
+			<div class="card-body">
+
+				<h4 class="card-title">Karen Bates</h4>
+
+				<h6 class="card-subtitle mb-2 text-muted text-center">Director | Head Coach
+					<br>Edge Specialist</h6>
+
+				<p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus aut mollitia eum ipsum fugiat odio officiis odit.</p>
+			</div>
+			<div class="card-footer"><a href="#">name@example.com</a></div></div></div>
+	<div class="col-12 col-sm-6 col-lg-3 mb-4">
+		<div class="card card-coach h-100 text-center mx-auto" style="max-width: 300px;"><img class="card-img-top fr-fic fr-dii" src="/storage/app/media/people/amber/amber-4.jpg" alt="">
+			<div class="card-body">
+
+				<h4 class="card-title">Amber Scott</h4>
+
+				<h6 class="card-subtitle mb-2 text-muted">Edge Specialist</h6>
+
+				<p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus aut mollitia eum ipsum fugiat odio officiis odit.</p>
+			</div>
+			<div class="card-footer"><a href="#">name@example.com</a></div></div></div>
+	<div class="col-12 col-sm-6 col-lg-3 mb-4">
+		<div class="card card-coach h-100 text-center mx-auto" style="max-width: 300px;"><img class="card-img-top fr-fic fr-dii" src="/storage/app/media/people/amber/amber-6.jpg" alt="">
+			<div class="card-body">
+
+				<h4 class="card-title">Stephanie Rechsteiner</h4>
+
+				<h6 class="card-subtitle mb-2 text-muted">Edge Specialist</h6>
+
+				<p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus aut mollitia eum ipsum fugiat odio officiis odit.</p>
+			</div>
+			<div class="card-footer"><a href="#">name@example.com</a></div></div></div>
+	<div class="col-12 col-sm-6 col-lg-3 mb-4">
+		<div class="card card-coach h-100 text-center mx-auto" style="max-width: 300px;"><img class="card-img-top fr-fic fr-dii" src="/storage/app/media/people/amber/amber-3.jpg" alt="">
+			<div class="card-body">
+
+				<h4 class="card-title">Katelyn Toms</h4>
+
+				<h6 class="card-subtitle mb-2 text-muted">Edge Specialist</h6>
+
+				<p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus aut mollitia eum ipsum fugiat odio officiis odit.</p>
+			</div>
+			<div class="card-footer"><a href="#">name@example.com</a></div></div></div>
+	<div class="col-12 col-sm-6 col-lg-3 mb-4">
+		<div class="card card-coach h-100 text-center"><img class="card-img-top fr-fic fr-dii" src="/storage/app/media/people/amber/amber.png" alt="">
+			<div class="card-body">
+
+				<h4 class="card-title">Julia Bashynska</h4>
+
+				<h6 class="card-subtitle mb-2 text-muted">Edge Specialist</h6>
+
+				<p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus aut mollitia eum ipsum fugiat odio officiis odit.</p>
+			</div>
+			<div class="card-footer"><a href="#">name@example.com</a></div></div></div>
+	<div class="col-12 col-sm-6 col-lg-3 mb-4">
+		<div class="card card-coach h-100 text-center"><img class="card-img-top fr-fic fr-dii" src="/storage/app/media/people/amber/amber-2.jpg" alt="">
+			<div class="card-body">
+
+				<h4 class="card-title">Chanon Ngamdumrong</h4>
+
+				<h6 class="card-subtitle mb-2 text-muted">Edge Specialist</h6>
+
+				<p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus aut mollitia eum ipsum fugiat odio officiis odit.</p>
+			</div>
+			<div class="card-footer"><a href="#">name@example.com</a></div></div></div></div>
+<hr>
+<div class="row sides-spacer my-5">
+	<div class="col-md-8">
+
+		<p class="text-center">To book any sessions please email <a href="mailto:info@poweredgeskating.com">info@poweredgeskating.com</a> or contact Coaches directly.</p>
+	</div>
+	<div class="col-md-4"><a class="btn btn-lg btn-secondary btn-block" href="#">Contact</a></div></div>";s:5:"mtime";i:1587064214;s:6:"markup";s:4774:"<figure data-snippet="page-title">&nbsp;</figure>
+<div class="row d-flex justify-content-center">
+	<div class="col-12 col-sm-6 col-lg-3 mb-4">
+		<div class="card card-coach h-100 text-center mx-auto" style="max-width: 300px;"><img class="card-img-top fr-fic fr-dii" src="/storage/app/media/people/jody-2.jpg" alt="">
+			<div class="card-body">
+
+				<h4 class="card-title">Jodi Figliomeni</h4>
+
+				<h6 class="card-subtitle mb-2 text-muted text-center">Director | Head Coach
+					<br>Edge Specialist</h6>
+
+				<p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus aut mollitia eum ipsum fugiat odio officiis odit.</p>
+			</div>
+			<div class="card-footer"><a href="#">name@example.com</a></div></div></div>
+	<div class="col-12 col-sm-6 col-lg-3 mb-4">
+		<div class="card card-coach h-100 text-center mx-auto" style="max-width: 300px;"><img class="card-img-top fr-fic fr-dii" src="/storage/app/media/people/karen-2.jpg" alt="">
+			<div class="card-body">
+
+				<h4 class="card-title">Karen Bates</h4>
+
+				<h6 class="card-subtitle mb-2 text-muted text-center">Director | Head Coach
+					<br>Edge Specialist</h6>
+
+				<p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus aut mollitia eum ipsum fugiat odio officiis odit.</p>
+			</div>
+			<div class="card-footer"><a href="#">name@example.com</a></div></div></div>
+	<div class="col-12 col-sm-6 col-lg-3 mb-4">
+		<div class="card card-coach h-100 text-center mx-auto" style="max-width: 300px;"><img class="card-img-top fr-fic fr-dii" src="/storage/app/media/people/amber/amber-4.jpg" alt="">
+			<div class="card-body">
+
+				<h4 class="card-title">Amber Scott</h4>
+
+				<h6 class="card-subtitle mb-2 text-muted">Edge Specialist</h6>
+
+				<p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus aut mollitia eum ipsum fugiat odio officiis odit.</p>
+			</div>
+			<div class="card-footer"><a href="#">name@example.com</a></div></div></div>
+	<div class="col-12 col-sm-6 col-lg-3 mb-4">
+		<div class="card card-coach h-100 text-center mx-auto" style="max-width: 300px;"><img class="card-img-top fr-fic fr-dii" src="/storage/app/media/people/amber/amber-6.jpg" alt="">
+			<div class="card-body">
+
+				<h4 class="card-title">Stephanie Rechsteiner</h4>
+
+				<h6 class="card-subtitle mb-2 text-muted">Edge Specialist</h6>
+
+				<p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus aut mollitia eum ipsum fugiat odio officiis odit.</p>
+			</div>
+			<div class="card-footer"><a href="#">name@example.com</a></div></div></div>
+	<div class="col-12 col-sm-6 col-lg-3 mb-4">
+		<div class="card card-coach h-100 text-center mx-auto" style="max-width: 300px;"><img class="card-img-top fr-fic fr-dii" src="/storage/app/media/people/amber/amber-3.jpg" alt="">
+			<div class="card-body">
+
+				<h4 class="card-title">Katelyn Toms</h4>
+
+				<h6 class="card-subtitle mb-2 text-muted">Edge Specialist</h6>
+
+				<p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus aut mollitia eum ipsum fugiat odio officiis odit.</p>
+			</div>
+			<div class="card-footer"><a href="#">name@example.com</a></div></div></div>
+	<div class="col-12 col-sm-6 col-lg-3 mb-4">
+		<div class="card card-coach h-100 text-center"><img class="card-img-top fr-fic fr-dii" src="/storage/app/media/people/amber/amber.png" alt="">
+			<div class="card-body">
+
+				<h4 class="card-title">Julia Bashynska</h4>
+
+				<h6 class="card-subtitle mb-2 text-muted">Edge Specialist</h6>
+
+				<p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus aut mollitia eum ipsum fugiat odio officiis odit.</p>
+			</div>
+			<div class="card-footer"><a href="#">name@example.com</a></div></div></div>
+	<div class="col-12 col-sm-6 col-lg-3 mb-4">
+		<div class="card card-coach h-100 text-center"><img class="card-img-top fr-fic fr-dii" src="/storage/app/media/people/amber/amber-2.jpg" alt="">
+			<div class="card-body">
+
+				<h4 class="card-title">Chanon Ngamdumrong</h4>
+
+				<h6 class="card-subtitle mb-2 text-muted">Edge Specialist</h6>
+
+				<p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus aut mollitia eum ipsum fugiat odio officiis odit.</p>
+			</div>
+			<div class="card-footer"><a href="#">name@example.com</a></div></div></div></div>
+<hr>
+<div class="row sides-spacer my-5">
+	<div class="col-md-8">
+
+		<p class="text-center">To book any sessions please email <a href="mailto:info@poweredgeskating.com">info@poweredgeskating.com</a> or contact Coaches directly.</p>
+	</div>
+	<div class="col-md-4"><a class="btn btn-lg btn-secondary btn-block" href="#">Contact</a></div></div>";s:4:"code";N;s:7:"viewBag";a:5:{s:5:"title";s:22:"Figure Skating Coaches";s:3:"url";s:17:"/about-us/coaches";s:6:"layout";s:18:"regular-navigation";s:9:"is_hidden";s:1:"1";s:17:"navigation_hidden";s:1:"1";}s:12:"parsedMarkup";s:4774:"<figure data-snippet="page-title">&nbsp;</figure>
+<div class="row d-flex justify-content-center">
+	<div class="col-12 col-sm-6 col-lg-3 mb-4">
+		<div class="card card-coach h-100 text-center mx-auto" style="max-width: 300px;"><img class="card-img-top fr-fic fr-dii" src="/storage/app/media/people/jody-2.jpg" alt="">
+			<div class="card-body">
+
+				<h4 class="card-title">Jodi Figliomeni</h4>
+
+				<h6 class="card-subtitle mb-2 text-muted text-center">Director | Head Coach
+					<br>Edge Specialist</h6>
+
+				<p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus aut mollitia eum ipsum fugiat odio officiis odit.</p>
+			</div>
+			<div class="card-footer"><a href="#">name@example.com</a></div></div></div>
+	<div class="col-12 col-sm-6 col-lg-3 mb-4">
+		<div class="card card-coach h-100 text-center mx-auto" style="max-width: 300px;"><img class="card-img-top fr-fic fr-dii" src="/storage/app/media/people/karen-2.jpg" alt="">
+			<div class="card-body">
+
+				<h4 class="card-title">Karen Bates</h4>
+
+				<h6 class="card-subtitle mb-2 text-muted text-center">Director | Head Coach
+					<br>Edge Specialist</h6>
+
+				<p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus aut mollitia eum ipsum fugiat odio officiis odit.</p>
+			</div>
+			<div class="card-footer"><a href="#">name@example.com</a></div></div></div>
+	<div class="col-12 col-sm-6 col-lg-3 mb-4">
+		<div class="card card-coach h-100 text-center mx-auto" style="max-width: 300px;"><img class="card-img-top fr-fic fr-dii" src="/storage/app/media/people/amber/amber-4.jpg" alt="">
+			<div class="card-body">
+
+				<h4 class="card-title">Amber Scott</h4>
+
+				<h6 class="card-subtitle mb-2 text-muted">Edge Specialist</h6>
+
+				<p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus aut mollitia eum ipsum fugiat odio officiis odit.</p>
+			</div>
+			<div class="card-footer"><a href="#">name@example.com</a></div></div></div>
+	<div class="col-12 col-sm-6 col-lg-3 mb-4">
+		<div class="card card-coach h-100 text-center mx-auto" style="max-width: 300px;"><img class="card-img-top fr-fic fr-dii" src="/storage/app/media/people/amber/amber-6.jpg" alt="">
+			<div class="card-body">
+
+				<h4 class="card-title">Stephanie Rechsteiner</h4>
+
+				<h6 class="card-subtitle mb-2 text-muted">Edge Specialist</h6>
+
+				<p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus aut mollitia eum ipsum fugiat odio officiis odit.</p>
+			</div>
+			<div class="card-footer"><a href="#">name@example.com</a></div></div></div>
+	<div class="col-12 col-sm-6 col-lg-3 mb-4">
+		<div class="card card-coach h-100 text-center mx-auto" style="max-width: 300px;"><img class="card-img-top fr-fic fr-dii" src="/storage/app/media/people/amber/amber-3.jpg" alt="">
+			<div class="card-body">
+
+				<h4 class="card-title">Katelyn Toms</h4>
+
+				<h6 class="card-subtitle mb-2 text-muted">Edge Specialist</h6>
+
+				<p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus aut mollitia eum ipsum fugiat odio officiis odit.</p>
+			</div>
+			<div class="card-footer"><a href="#">name@example.com</a></div></div></div>
+	<div class="col-12 col-sm-6 col-lg-3 mb-4">
+		<div class="card card-coach h-100 text-center"><img class="card-img-top fr-fic fr-dii" src="/storage/app/media/people/amber/amber.png" alt="">
+			<div class="card-body">
+
+				<h4 class="card-title">Julia Bashynska</h4>
+
+				<h6 class="card-subtitle mb-2 text-muted">Edge Specialist</h6>
+
+				<p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus aut mollitia eum ipsum fugiat odio officiis odit.</p>
+			</div>
+			<div class="card-footer"><a href="#">name@example.com</a></div></div></div>
+	<div class="col-12 col-sm-6 col-lg-3 mb-4">
+		<div class="card card-coach h-100 text-center"><img class="card-img-top fr-fic fr-dii" src="/storage/app/media/people/amber/amber-2.jpg" alt="">
+			<div class="card-body">
+
+				<h4 class="card-title">Chanon Ngamdumrong</h4>
+
+				<h6 class="card-subtitle mb-2 text-muted">Edge Specialist</h6>
+
+				<p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus aut mollitia eum ipsum fugiat odio officiis odit.</p>
+			</div>
+			<div class="card-footer"><a href="#">name@example.com</a></div></div></div></div>
+<hr>
+<div class="row sides-spacer my-5">
+	<div class="col-md-8">
+
+		<p class="text-center">To book any sessions please email <a href="mailto:info@poweredgeskating.com">info@poweredgeskating.com</a> or contact Coaches directly.</p>
+	</div>
+	<div class="col-md-4"><a class="btn btn-lg btn-secondary btn-block" href="#">Contact</a></div></div>";}}

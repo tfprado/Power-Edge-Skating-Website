@@ -1,0 +1,10 @@
+1613862395a:1:{s:13:"app/flash.htm";a:5:{s:8:"fileName";s:13:"app/flash.htm";s:7:"content";s:125:"{% flash %}
+<p data-control="flash-message" data-interval="5" class="{{ type }}">
+    {{ message }}
+</p>
+{% endflash %}
+";s:5:"mtime";i:1581913114;s:6:"markup";s:123:"{% flash %}
+<p data-control="flash-message" data-interval="5" class="{{ type }}">
+    {{ message }}
+</p>
+{% endflash %}";s:4:"code";N;}}

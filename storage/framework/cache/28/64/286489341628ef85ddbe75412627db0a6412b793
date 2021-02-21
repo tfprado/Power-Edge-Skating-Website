@@ -1,0 +1,16 @@
+1613862395a:1:{s:18:"snippets/title.htm";a:7:{s:8:"fileName";s:18:"snippets/title.htm";s:7:"content";s:236:"description = "Page Title"
+
+[viewBag]
+snippetCode = "page-title"
+snippetName = "Page Title"
+==
+<div class="row top-spacer">
+    <div class="col-12">
+        <h1 class="page-title">{{ this.page.title }}</h1>
+    </div>
+</div>
+";s:5:"mtime";i:1583096728;s:6:"markup";s:133:"<div class="row top-spacer">
+    <div class="col-12">
+        <h1 class="page-title">{{ this.page.title }}</h1>
+    </div>
+</div>";s:4:"code";N;s:11:"description";s:10:"Page Title";s:7:"viewBag";a:2:{s:11:"snippetCode";s:10:"page-title";s:11:"snippetName";s:10:"Page Title";}}}

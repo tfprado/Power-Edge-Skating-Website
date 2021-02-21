@@ -1,0 +1,3 @@
+id,match_type,target_type,from_scheme,from_url,to_scheme,to_url,cms_page,static_page,status_code,requirements,from_date,to_date,ignore_query_parameters,ignore_case,ignore_trailing_slash
+2,exact,path_or_url,auto,/home,auto,/,,,301,[],,,1,1,1
+3,exact,path_or_url,auto,/about-us,auto,/about-us/our-program,,,301,[],,,1,1,1

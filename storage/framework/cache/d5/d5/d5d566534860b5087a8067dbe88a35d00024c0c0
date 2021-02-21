@@ -1,0 +1,65 @@
+1613862395a:1:{s:25:"development/card-deck.htm";a:5:{s:8:"fileName";s:25:"development/card-deck.htm";s:7:"content";s:1624:"<div class="row row-spacer">
+    <div class="col-12">
+        <div class="card-deck">
+            <div class="card">
+                <img src="//placehold.it/500x400" class="card-img-top" alt="Power Edge skating 3">
+                <div class="card-body">
+                    <h5 class="card-title">Card title</h5>
+                    <p class="card-text">This is a longer card with supporting text below as a natural lead-in to
+                        additional
+                        content. This content is a little bit longer.</p>
+                </div>
+            </div>
+            <div class="card">
+                <img src="//placehold.it/500x400" class="card-img-top" alt="Power Edge skating 4">
+                <div class="card-body">
+                    <h5 class="card-title">Card title</h5>
+                    <p class="card-text">This card has supporting text below as a natural lead-in to additional
+                        content.</p>
+                </div>
+            </div>
+            <div class="card">
+                <img src="//placehold.it/500x400" class="card-img-top" alt="Power Edge skating 5">
+                <div class="card-body">
+                    <h5 class="card-title">Card title</h5>
+                    <p class="card-text">This is a wider card with supporting text below as a natural lead-in to
+                        additional
+                        content. This card has even longer content than the first to show that equal height action.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>";s:5:"mtime";i:1583091173;s:6:"markup";s:1624:"<div class="row row-spacer">
+    <div class="col-12">
+        <div class="card-deck">
+            <div class="card">
+                <img src="//placehold.it/500x400" class="card-img-top" alt="Power Edge skating 3">
+                <div class="card-body">
+                    <h5 class="card-title">Card title</h5>
+                    <p class="card-text">This is a longer card with supporting text below as a natural lead-in to
+                        additional
+                        content. This content is a little bit longer.</p>
+                </div>
+            </div>
+            <div class="card">
+                <img src="//placehold.it/500x400" class="card-img-top" alt="Power Edge skating 4">
+                <div class="card-body">
+                    <h5 class="card-title">Card title</h5>
+                    <p class="card-text">This card has supporting text below as a natural lead-in to additional
+                        content.</p>
+                </div>
+            </div>
+            <div class="card">
+                <img src="//placehold.it/500x400" class="card-img-top" alt="Power Edge skating 5">
+                <div class="card-body">
+                    <h5 class="card-title">Card title</h5>
+                    <p class="card-text">This is a wider card with supporting text below as a natural lead-in to
+                        additional
+                        content. This card has even longer content than the first to show that equal height action.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>";s:4:"code";N;}}

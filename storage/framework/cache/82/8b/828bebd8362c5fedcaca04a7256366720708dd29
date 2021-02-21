@@ -1,0 +1,439 @@
+1613862395a:1:{s:22:"gallery/categories.htm";a:6:{s:8:"fileName";s:22:"gallery/categories.htm";s:7:"content";s:7178:"[viewBag]
+==
+<h2 class="text-center mt-3">Gallery</h2>
+<hr>
+<!-- Grid row -->
+<div class="row">
+
+    <!-- Grid column -->
+    <div class="col-md-12 d-flex justify-content-center mb-5">
+
+        <button type="button" class="btn btn-outline-black waves-effect filter" data-rel="all">All</button>
+        <button type="button" class="btn btn-outline-black waves-effect filter" data-rel="1">Category 1</button>
+        <button type="button" class="btn btn-outline-black waves-effect filter" data-rel="2">Category 3</button>
+
+    </div>
+    <!-- Grid column -->
+
+</div>
+<!-- Grid row -->
+
+<!-- Grid row -->
+<div class="gallery mb-3" id="gallery">
+
+    <!-- Grid column -->
+    <div class="mb-3 pics animation all 2">
+        <img class="img-fluid" src="/storage/app/media/jodi_uploads/photo1.jpeg"
+            alt="Card image cap">
+    </div>
+    <!-- Grid column -->
+
+    <!-- Grid column -->
+    <div class="mb-3 pics animation all 1">
+        <img class="img-fluid" src="/storage/app/media/jodi_uploads/photo2.jpeg" alt="Card image cap">
+    </div>
+    <!-- Grid column -->
+
+    <!-- Grid column -->
+    <div class="mb-3 pics animation all 1">
+        <img class="img-fluid" src="/storage/app/media/jodi_uploads/photo3.jpeg" alt="Card image cap">
+    </div>
+    <!-- Grid column -->
+
+    <!-- Grid column -->
+    <div class="mb-3 pics animation all 2">
+        <img class="img-fluid" src="/storage/app/media/jodi_uploads/photo4.jpeg"
+            alt="Card image cap">
+    </div>
+    <!-- Grid column -->
+
+    <!-- Grid column -->
+    <div class="mb-3 pics animation all 2">
+        <img class="img-fluid" src="/storage/app/media/jodi_uploads/photo5.jpeg"
+            alt="Card image cap">
+    </div>
+    <!-- Grid column -->
+
+    <!-- Grid column -->
+    <div class="mb-3 pics animation all 1">
+        <img class="img-fluid" src="/storage/app/media/jodi_uploads/photo6.jpeg" alt="Card image cap">
+    </div>
+    <!-- Grid column -->
+
+    <!-- Grid column -->
+    <div class="mb-3 pics animation all 2">
+        <img class="img-fluid" src="/storage/app/media/jodi_uploads/photo7.jpeg" alt="Card image cap">
+    </div>
+    <!-- Grid column -->
+
+    <!-- Grid column -->
+    <div class="mb-3 pics animation all 1">
+        <img class="img-fluid" src="/storage/app/media/jodi_uploads/photo6.jpeg" alt="Card image cap">
+    </div>
+    <!-- Grid column -->
+    
+    <!-- Grid column -->
+    <div class="mb-3 pics animation all 2">
+        <img class="img-fluid" src="/storage/app/media/jodi_uploads/photo7.jpeg" alt="Card image cap">
+    </div>
+    <!-- Grid column -->
+
+    <!-- Grid column -->
+    <div class="mb-3 pics animation all 1">
+        <img class="img-fluid" src="/storage/app/media/jodi_uploads/photo8.jpeg" alt="Card image cap">
+    </div>
+    <!-- Grid column -->
+    
+    <!-- Grid column -->
+    <div class="mb-3 pics animation all 2">
+        <img class="img-fluid" src="/storage/app/media/jodi_uploads/photo9.jpeg" alt="Card image cap">
+    </div>
+    <!-- Grid column -->
+
+    <!-- Grid column -->
+    <div class="mb-3 pics animation all 1">
+        <img class="img-fluid" src="/storage/app/media/jodi_uploads/photo10.jpeg" alt="Card image cap">
+    </div>
+    <!-- Grid column -->
+    
+    <!-- Grid column -->
+    <div class="mb-3 pics animation all 2">
+        <img class="img-fluid" src="/storage/app/media/jodi_uploads/photo11.jpeg" alt="Card image cap">
+    </div>
+    <!-- Grid column -->
+
+    <!-- Grid column -->
+    <div class="mb-3 pics animation all 1">
+        <img class="img-fluid" src="/storage/app/media/jodi_uploads/photo12.jpeg" alt="Card image cap">
+    </div>
+    <!-- Grid column -->
+    
+    <!-- Grid column -->
+    <div class="mb-3 pics animation all 2">
+        <img class="img-fluid" src="/storage/app/media/jodi_uploads/photo13.jpeg" alt="Card image cap">
+    </div>
+    <!-- Grid column -->
+
+    <!-- Grid column -->
+    <div class="mb-3 pics animation all 1">
+        <img class="img-fluid" src="/storage/app/media/jodi_uploads/photo14.jpeg" alt="Card image cap">
+    </div>
+    <!-- Grid column -->
+    
+    <!-- Grid column -->
+    <div class="mb-3 pics animation all 2">
+        <img class="img-fluid" src="/storage/app/media/jodi_uploads/photo15.jpeg" alt="Card image cap">
+    </div>
+    <!-- Grid column -->
+
+    <!-- Grid column -->
+    <div class="mb-3 pics animation all 1">
+        <img class="img-fluid" src="/storage/app/media/jodi_uploads/photo15.jpeg" alt="Card image cap">
+    </div>
+    <!-- Grid column -->
+    
+    <!-- Grid column -->
+    <div class="mb-3 pics animation all 2">
+        <img class="img-fluid" src="/storage/app/media/jodi_uploads/photo16.jpeg" alt="Card image cap">
+    </div>
+    <!-- Grid column -->
+
+    <!-- Grid column -->
+    <div class="mb-3 pics animation all 1">
+        <img class="img-fluid" src="/storage/app/media/jodi_uploads/photo17.jpeg" alt="Card image cap">
+    </div>
+    <!-- Grid column -->
+    
+    <!-- Grid column -->
+    <div class="mb-3 pics animation all 2">
+        <img class="img-fluid" src="/storage/app/media/jodi_uploads/photo18.jpeg" alt="Card image cap">
+    </div>
+    <!-- Grid column -->
+
+    <!-- Grid column -->
+    <div class="mb-3 pics animation all 1">
+        <img class="img-fluid" src="/storage/app/media/jodi_uploads/photo19.jpeg" alt="Card image cap">
+    </div>
+    <!-- Grid column -->
+    
+    <!-- Grid column -->
+    <div class="mb-3 pics animation all 2">
+        <img class="img-fluid" src="/storage/app/media/jodi_uploads/photo20.jpeg" alt="Card image cap">
+    </div>
+    <!-- Grid column -->
+</div>
+<!-- Grid row -->
+<style>
+    .gallery {
+        -webkit-column-count: 3;
+        -moz-column-count: 3;
+        column-count: 3;
+        -webkit-column-width: 33%;
+        -moz-column-width: 33%;
+        column-width: 33%;
+    }
+
+    .gallery .pics {
+        -webkit-transition: all 350ms ease;
+        transition: all 350ms ease;
+    }
+
+    .gallery .animation {
+        -webkit-transform: scale(1);
+        -ms-transform: scale(1);
+        transform: scale(1);
+    }
+
+    @media (max-width: 450px) {
+        .gallery {
+            -webkit-column-count: 1;
+            -moz-column-count: 1;
+            column-count: 1;
+            -webkit-column-width: 100%;
+            -moz-column-width: 100%;
+            column-width: 100%;
+        }
+    }
+
+    @media (max-width: 400px) {
+        .btn.filter {
+            padding-left: 1.1rem;
+            padding-right: 1.1rem;
+        }
+    }
+</style>
+
+{% put scripts %}
+<script>
+    $(function () {
+        var selectedClass = "";
+        $(".filter").click(function () {
+            selectedClass = $(this).attr("data-rel");
+            $("#gallery").fadeTo(100, 0.1);
+            $("#gallery div").not("." + selectedClass).fadeOut().removeClass('animation');
+            setTimeout(function () {
+                $("." + selectedClass).fadeIn().addClass('animation');
+                $("#gallery").fadeTo(300, 1);
+            }, 300);
+        });
+    });
+</script>
+{% endput %}";s:5:"mtime";i:1609609879;s:6:"markup";s:7163:"<h2 class="text-center mt-3">Gallery</h2>
+<hr>
+<!-- Grid row -->
+<div class="row">
+
+    <!-- Grid column -->
+    <div class="col-md-12 d-flex justify-content-center mb-5">
+
+        <button type="button" class="btn btn-outline-black waves-effect filter" data-rel="all">All</button>
+        <button type="button" class="btn btn-outline-black waves-effect filter" data-rel="1">Category 1</button>
+        <button type="button" class="btn btn-outline-black waves-effect filter" data-rel="2">Category 3</button>
+
+    </div>
+    <!-- Grid column -->
+
+</div>
+<!-- Grid row -->
+
+<!-- Grid row -->
+<div class="gallery mb-3" id="gallery">
+
+    <!-- Grid column -->
+    <div class="mb-3 pics animation all 2">
+        <img class="img-fluid" src="/storage/app/media/jodi_uploads/photo1.jpeg"
+            alt="Card image cap">
+    </div>
+    <!-- Grid column -->
+
+    <!-- Grid column -->
+    <div class="mb-3 pics animation all 1">
+        <img class="img-fluid" src="/storage/app/media/jodi_uploads/photo2.jpeg" alt="Card image cap">
+    </div>
+    <!-- Grid column -->
+
+    <!-- Grid column -->
+    <div class="mb-3 pics animation all 1">
+        <img class="img-fluid" src="/storage/app/media/jodi_uploads/photo3.jpeg" alt="Card image cap">
+    </div>
+    <!-- Grid column -->
+
+    <!-- Grid column -->
+    <div class="mb-3 pics animation all 2">
+        <img class="img-fluid" src="/storage/app/media/jodi_uploads/photo4.jpeg"
+            alt="Card image cap">
+    </div>
+    <!-- Grid column -->
+
+    <!-- Grid column -->
+    <div class="mb-3 pics animation all 2">
+        <img class="img-fluid" src="/storage/app/media/jodi_uploads/photo5.jpeg"
+            alt="Card image cap">
+    </div>
+    <!-- Grid column -->
+
+    <!-- Grid column -->
+    <div class="mb-3 pics animation all 1">
+        <img class="img-fluid" src="/storage/app/media/jodi_uploads/photo6.jpeg" alt="Card image cap">
+    </div>
+    <!-- Grid column -->
+
+    <!-- Grid column -->
+    <div class="mb-3 pics animation all 2">
+        <img class="img-fluid" src="/storage/app/media/jodi_uploads/photo7.jpeg" alt="Card image cap">
+    </div>
+    <!-- Grid column -->
+
+    <!-- Grid column -->
+    <div class="mb-3 pics animation all 1">
+        <img class="img-fluid" src="/storage/app/media/jodi_uploads/photo6.jpeg" alt="Card image cap">
+    </div>
+    <!-- Grid column -->
+    
+    <!-- Grid column -->
+    <div class="mb-3 pics animation all 2">
+        <img class="img-fluid" src="/storage/app/media/jodi_uploads/photo7.jpeg" alt="Card image cap">
+    </div>
+    <!-- Grid column -->
+
+    <!-- Grid column -->
+    <div class="mb-3 pics animation all 1">
+        <img class="img-fluid" src="/storage/app/media/jodi_uploads/photo8.jpeg" alt="Card image cap">
+    </div>
+    <!-- Grid column -->
+    
+    <!-- Grid column -->
+    <div class="mb-3 pics animation all 2">
+        <img class="img-fluid" src="/storage/app/media/jodi_uploads/photo9.jpeg" alt="Card image cap">
+    </div>
+    <!-- Grid column -->
+
+    <!-- Grid column -->
+    <div class="mb-3 pics animation all 1">
+        <img class="img-fluid" src="/storage/app/media/jodi_uploads/photo10.jpeg" alt="Card image cap">
+    </div>
+    <!-- Grid column -->
+    
+    <!-- Grid column -->
+    <div class="mb-3 pics animation all 2">
+        <img class="img-fluid" src="/storage/app/media/jodi_uploads/photo11.jpeg" alt="Card image cap">
+    </div>
+    <!-- Grid column -->
+
+    <!-- Grid column -->
+    <div class="mb-3 pics animation all 1">
+        <img class="img-fluid" src="/storage/app/media/jodi_uploads/photo12.jpeg" alt="Card image cap">
+    </div>
+    <!-- Grid column -->
+    
+    <!-- Grid column -->
+    <div class="mb-3 pics animation all 2">
+        <img class="img-fluid" src="/storage/app/media/jodi_uploads/photo13.jpeg" alt="Card image cap">
+    </div>
+    <!-- Grid column -->
+
+    <!-- Grid column -->
+    <div class="mb-3 pics animation all 1">
+        <img class="img-fluid" src="/storage/app/media/jodi_uploads/photo14.jpeg" alt="Card image cap">
+    </div>
+    <!-- Grid column -->
+    
+    <!-- Grid column -->
+    <div class="mb-3 pics animation all 2">
+        <img class="img-fluid" src="/storage/app/media/jodi_uploads/photo15.jpeg" alt="Card image cap">
+    </div>
+    <!-- Grid column -->
+
+    <!-- Grid column -->
+    <div class="mb-3 pics animation all 1">
+        <img class="img-fluid" src="/storage/app/media/jodi_uploads/photo15.jpeg" alt="Card image cap">
+    </div>
+    <!-- Grid column -->
+    
+    <!-- Grid column -->
+    <div class="mb-3 pics animation all 2">
+        <img class="img-fluid" src="/storage/app/media/jodi_uploads/photo16.jpeg" alt="Card image cap">
+    </div>
+    <!-- Grid column -->
+
+    <!-- Grid column -->
+    <div class="mb-3 pics animation all 1">
+        <img class="img-fluid" src="/storage/app/media/jodi_uploads/photo17.jpeg" alt="Card image cap">
+    </div>
+    <!-- Grid column -->
+    
+    <!-- Grid column -->
+    <div class="mb-3 pics animation all 2">
+        <img class="img-fluid" src="/storage/app/media/jodi_uploads/photo18.jpeg" alt="Card image cap">
+    </div>
+    <!-- Grid column -->
+
+    <!-- Grid column -->
+    <div class="mb-3 pics animation all 1">
+        <img class="img-fluid" src="/storage/app/media/jodi_uploads/photo19.jpeg" alt="Card image cap">
+    </div>
+    <!-- Grid column -->
+    
+    <!-- Grid column -->
+    <div class="mb-3 pics animation all 2">
+        <img class="img-fluid" src="/storage/app/media/jodi_uploads/photo20.jpeg" alt="Card image cap">
+    </div>
+    <!-- Grid column -->
+</div>
+<!-- Grid row -->
+<style>
+    .gallery {
+        -webkit-column-count: 3;
+        -moz-column-count: 3;
+        column-count: 3;
+        -webkit-column-width: 33%;
+        -moz-column-width: 33%;
+        column-width: 33%;
+    }
+
+    .gallery .pics {
+        -webkit-transition: all 350ms ease;
+        transition: all 350ms ease;
+    }
+
+    .gallery .animation {
+        -webkit-transform: scale(1);
+        -ms-transform: scale(1);
+        transform: scale(1);
+    }
+
+    @media (max-width: 450px) {
+        .gallery {
+            -webkit-column-count: 1;
+            -moz-column-count: 1;
+            column-count: 1;
+            -webkit-column-width: 100%;
+            -moz-column-width: 100%;
+            column-width: 100%;
+        }
+    }
+
+    @media (max-width: 400px) {
+        .btn.filter {
+            padding-left: 1.1rem;
+            padding-right: 1.1rem;
+        }
+    }
+</style>
+
+{% put scripts %}
+<script>
+    $(function () {
+        var selectedClass = "";
+        $(".filter").click(function () {
+            selectedClass = $(this).attr("data-rel");
+            $("#gallery").fadeTo(100, 0.1);
+            $("#gallery div").not("." + selectedClass).fadeOut().removeClass('animation');
+            setTimeout(function () {
+                $("." + selectedClass).fadeIn().addClass('animation');
+                $("#gallery").fadeTo(300, 1);
+            }, 300);
+        });
+    });
+</script>
+{% endput %}";s:4:"code";N;s:7:"viewBag";a:0:{}}}

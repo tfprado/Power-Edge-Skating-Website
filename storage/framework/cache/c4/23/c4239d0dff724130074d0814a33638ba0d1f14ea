@@ -1,0 +1,25 @@
+1613862395a:1:{s:34:"development/image-overlay-card.htm";a:5:{s:8:"fileName";s:34:"development/image-overlay-card.htm";s:7:"content";s:578:"<div class="row row-spacer mb-3">
+    <div class="col-12">
+        <div class="card bg-dark text-white">
+            <img src="//placehold.it/1200x400" class="card-img" alt="Power Edge skating 2">
+            <div class="card-img-overlay">
+                <h5 class="card-title text-dark">Card title</h5>
+                <p class="card-text">This is a wider card with supporting text below as a natural lead-in to
+                    additional content.
+                    This content is a little bit longer.</p>
+            </div>
+        </div>
+    </div>
+</div>";s:5:"mtime";i:1583091143;s:6:"markup";s:578:"<div class="row row-spacer mb-3">
+    <div class="col-12">
+        <div class="card bg-dark text-white">
+            <img src="//placehold.it/1200x400" class="card-img" alt="Power Edge skating 2">
+            <div class="card-img-overlay">
+                <h5 class="card-title text-dark">Card title</h5>
+                <p class="card-text">This is a wider card with supporting text below as a natural lead-in to
+                    additional content.
+                    This content is a little bit longer.</p>
+            </div>
+        </div>
+    </div>
+</div>";s:4:"code";N;}}

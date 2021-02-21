@@ -1,0 +1,49 @@
+1613862394a:1:{s:8:"home.htm";a:7:{s:8:"fileName";s:8:"home.htm";s:7:"content";s:1463:"[viewBag]
+title = "Home"
+url = "/"
+layout = "fluid"
+is_hidden = 0
+navigation_hidden = 0
+meta_title = "Home - What is Power Edge?"
+meta_description = "Power Edge is a program designed for all levels of hockey players looking to improve on the fundamentals of skating. This elite program, led by former competitive figure skaters, focuses on improving edges, stride and crossovers and is specific in mastering skating skills only."
+==
+<div class="ice-background">
+	<div class="row h-100">
+		<div class="col-12 col-sm-6 my-auto">
+			<div class="lighten-background">
+
+				<h2 class="site-header ice">What is Power Edge?</h2>
+
+				<p class="font-weight-bolder text-black"><strong>Power Edge is a program designed for all levels of hockey players looking to improve on the fundamentals of skating. This elite program, led by former competitive figure skaters Jodi Figliomeni and Karen Bates, focuses on improving edges, stride and crossovers and is specific in mastering skating skills only.&nbsp;</strong></p>
+
+				<p class="font-weight-bolder text-black">No Sticks. No Pucks.</p>
+
+				<p class="font-weight-bolder text-black">We focus on teaching the technical side of skating which impacts the skaters balance, control, agility and power. In developing a strong foundation and proper technique this completely improves each player’s overall skating ability.</p>
+			</div></div></div></div>
+<figure data-snippet="small-contact">&nbsp;</figure>";s:5:"mtime";i:1610125454;s:6:"markup";s:1021:"<div class="ice-background">
+	<div class="row h-100">
+		<div class="col-12 col-sm-6 my-auto">
+			<div class="lighten-background">
+
+				<h2 class="site-header ice">What is Power Edge?</h2>
+
+				<p class="font-weight-bolder text-black"><strong>Power Edge is a program designed for all levels of hockey players looking to improve on the fundamentals of skating. This elite program, led by former competitive figure skaters Jodi Figliomeni and Karen Bates, focuses on improving edges, stride and crossovers and is specific in mastering skating skills only.&nbsp;</strong></p>
+
+				<p class="font-weight-bolder text-black">No Sticks. No Pucks.</p>
+
+				<p class="font-weight-bolder text-black">We focus on teaching the technical side of skating which impacts the skaters balance, control, agility and power. In developing a strong foundation and proper technique this completely improves each player’s overall skating ability.</p>
+			</div></div></div></div>
+<figure data-snippet="small-contact">&nbsp;</figure>";s:4:"code";N;s:7:"viewBag";a:7:{s:5:"title";s:4:"Home";s:3:"url";s:1:"/";s:6:"layout";s:5:"fluid";s:9:"is_hidden";s:1:"0";s:17:"navigation_hidden";s:1:"0";s:10:"meta_title";s:26:"Home - What is Power Edge?";s:16:"meta_description";s:278:"Power Edge is a program designed for all levels of hockey players looking to improve on the fundamentals of skating. This elite program, led by former competitive figure skaters, focuses on improving edges, stride and crossovers and is specific in mastering skating skills only.";}s:12:"parsedMarkup";s:1021:"<div class="ice-background">
+	<div class="row h-100">
+		<div class="col-12 col-sm-6 my-auto">
+			<div class="lighten-background">
+
+				<h2 class="site-header ice">What is Power Edge?</h2>
+
+				<p class="font-weight-bolder text-black"><strong>Power Edge is a program designed for all levels of hockey players looking to improve on the fundamentals of skating. This elite program, led by former competitive figure skaters Jodi Figliomeni and Karen Bates, focuses on improving edges, stride and crossovers and is specific in mastering skating skills only.&nbsp;</strong></p>
+
+				<p class="font-weight-bolder text-black">No Sticks. No Pucks.</p>
+
+				<p class="font-weight-bolder text-black">We focus on teaching the technical side of skating which impacts the skaters balance, control, agility and power. In developing a strong foundation and proper technique this completely improves each player’s overall skating ability.</p>
+			</div></div></div></div>
+<figure data-snippet="small-contact">&nbsp;</figure>";}}

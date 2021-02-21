@@ -1,0 +1,179 @@
+1613862395a:1:{s:27:"development/card-column.htm";a:7:{s:8:"fileName";s:27:"development/card-column.htm";s:7:"content";s:4237:"description = "Testimonials in card column grid"
+
+[viewBag]
+snippetCode = "card-col"
+snippetName = "Card Column"
+snippetProperties[][title] = ""
+snippetProperties[][type] = ""
+snippetProperties[][default] = ""
+snippetProperties[][options][] = ""
+==
+<div class="row row-spacer">
+    <div class="card-columns">
+        <div class="card">
+            <!-- <img src="//placehold.it/500x400" class="card-img-top fr-fic fr-dii" alt="..."> -->
+            <div class="card-body">
+                <p class="card-text">
+                    I have seen
+                    firsthand in game situations how Jodi’s skating lessons have translated into
+                    significant changes in Michael’s game
+                    play.  I certainly have no hesitation referring Jodi.
+                </p>
+                <footer class="blockquote-footer"><small class="text-muted">&nbsp;Louis Laskovski<cite
+                            title="Source Title"></cite>&nbsp;</small></footer>
+            </div>
+        </div>
+        <div class="card p-3">
+
+            <blockquote class="blockquote mb-0 card-body">
+
+                <p>
+                    We have worked with Jodi over the past few years and she is fantastic.
+                </p>
+                <footer class="blockquote-footer"><small class="text-muted">&nbsp;David Walker, <cite
+                            title="Source Title">Head Coach/Player Development</cite>&nbsp;</small></footer>
+            </blockquote>
+        </div>
+        <div class="card">
+            <!-- <img src="//placehold.it/500x400" class="card-img-top fr-fic fr-dii" alt="..."> -->
+            <div class="card-body text-center">
+                <p class="card-text">
+                    As a
+                    coach Karen brings not only the technical
+                    knowledge but her mental approach is second to none.
+                </p>
+                <footer class="blockquote-footer"><small class="text-muted">&nbsp;Brendan Arnold, <cite title="Source Title">National BMX Coach</cite>&nbsp;</small></footer>
+            </div>
+        </div>
+        <div class="card bg-primary text-white text-center p-3">
+
+            <blockquote class="blockquote mb-0">
+
+                <p>Jodi is a kind, patient, and a dedicated skating coach.</p>
+                <footer class="blockquote-footer text-white"><small>&nbsp;Rebecca Zelovitzky, <cite
+                            title="Source Title">Markham Skating Club</cite>&nbsp;</small></footer>
+            </blockquote>
+        </div>
+        <div class="card text-center">
+            <div class="card-body">
+
+                <h5 class="card-title">How can we help you today?</h5>
+
+                <p class="card-text"><a href="contact-us" target="_blank" class="btn btn-primary">Contact Us!</a></p>
+            </div>
+        </div>
+
+        <!-- <div class="card"><img src="//placehold.it/500x400" class="card-img-top fr-fic fr-dii" alt="..."></div> -->
+
+        <!-- Start of Last Col -->
+        <div class="card p-3 text-right">
+
+            <blockquote class="blockquote mb-0">
+
+                <p>
+                    Her technical skill development is fantastic and would help any
+                player regardless of age or level, improve
+                their game.</p>
+                <footer class="blockquote-footer"><small class="text-muted">&nbsp;Craig Oldman<cite
+                            title="Source Title"></cite>&nbsp;</small></footer>
+            </blockquote>
+        </div>
+
+        <div class="card text-right">
+            <div class="card-body">
+                <p class="card-text">
+                    Jodi’s knowledge of skating is
+                    excellent. You will receive a hands-on personalized approach that is nothing
+                    short of excellent and it will be delivered
+                    in the most positive and energetic way.
+                </p>
+                <footer class="blockquote-footer"><small class="text-muted">&nbsp;Charity Lawrence<cite
+                            title="Source Title"></cite>&nbsp;</small></footer>
+            </div>
+        </div>
+    </div>
+</div>";s:5:"mtime";i:1587924581;s:6:"markup";s:3978:"<div class="row row-spacer">
+    <div class="card-columns">
+        <div class="card">
+            <!-- <img src="//placehold.it/500x400" class="card-img-top fr-fic fr-dii" alt="..."> -->
+            <div class="card-body">
+                <p class="card-text">
+                    I have seen
+                    firsthand in game situations how Jodi’s skating lessons have translated into
+                    significant changes in Michael’s game
+                    play.  I certainly have no hesitation referring Jodi.
+                </p>
+                <footer class="blockquote-footer"><small class="text-muted">&nbsp;Louis Laskovski<cite
+                            title="Source Title"></cite>&nbsp;</small></footer>
+            </div>
+        </div>
+        <div class="card p-3">
+
+            <blockquote class="blockquote mb-0 card-body">
+
+                <p>
+                    We have worked with Jodi over the past few years and she is fantastic.
+                </p>
+                <footer class="blockquote-footer"><small class="text-muted">&nbsp;David Walker, <cite
+                            title="Source Title">Head Coach/Player Development</cite>&nbsp;</small></footer>
+            </blockquote>
+        </div>
+        <div class="card">
+            <!-- <img src="//placehold.it/500x400" class="card-img-top fr-fic fr-dii" alt="..."> -->
+            <div class="card-body text-center">
+                <p class="card-text">
+                    As a
+                    coach Karen brings not only the technical
+                    knowledge but her mental approach is second to none.
+                </p>
+                <footer class="blockquote-footer"><small class="text-muted">&nbsp;Brendan Arnold, <cite title="Source Title">National BMX Coach</cite>&nbsp;</small></footer>
+            </div>
+        </div>
+        <div class="card bg-primary text-white text-center p-3">
+
+            <blockquote class="blockquote mb-0">
+
+                <p>Jodi is a kind, patient, and a dedicated skating coach.</p>
+                <footer class="blockquote-footer text-white"><small>&nbsp;Rebecca Zelovitzky, <cite
+                            title="Source Title">Markham Skating Club</cite>&nbsp;</small></footer>
+            </blockquote>
+        </div>
+        <div class="card text-center">
+            <div class="card-body">
+
+                <h5 class="card-title">How can we help you today?</h5>
+
+                <p class="card-text"><a href="contact-us" target="_blank" class="btn btn-primary">Contact Us!</a></p>
+            </div>
+        </div>
+
+        <!-- <div class="card"><img src="//placehold.it/500x400" class="card-img-top fr-fic fr-dii" alt="..."></div> -->
+
+        <!-- Start of Last Col -->
+        <div class="card p-3 text-right">
+
+            <blockquote class="blockquote mb-0">
+
+                <p>
+                    Her technical skill development is fantastic and would help any
+                player regardless of age or level, improve
+                their game.</p>
+                <footer class="blockquote-footer"><small class="text-muted">&nbsp;Craig Oldman<cite
+                            title="Source Title"></cite>&nbsp;</small></footer>
+            </blockquote>
+        </div>
+
+        <div class="card text-right">
+            <div class="card-body">
+                <p class="card-text">
+                    Jodi’s knowledge of skating is
+                    excellent. You will receive a hands-on personalized approach that is nothing
+                    short of excellent and it will be delivered
+                    in the most positive and energetic way.
+                </p>
+                <footer class="blockquote-footer"><small class="text-muted">&nbsp;Charity Lawrence<cite
+                            title="Source Title"></cite>&nbsp;</small></footer>
+            </div>
+        </div>
+    </div>
+</div>";s:4:"code";N;s:11:"description";s:32:"Testimonials in card column grid";s:7:"viewBag";a:3:{s:11:"snippetCode";s:8:"card-col";s:11:"snippetName";s:11:"Card Column";s:17:"snippetProperties";a:1:{i:0;a:4:{s:5:"title";s:0:"";s:4:"type";s:0:"";s:7:"default";s:0:"";s:7:"options";a:1:{i:0;s:0:"";}}}}}}

@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "cobalt-list-275917",
+  "private_key_id": "69413700bd8cb475279d226512a6a01a3319139a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQChOwNPsGaSXwcv\nPOzaUyovBC0iX/ZumEGmxWzBWaLpTqhoKEsgOzl/5/dwjipxTlQ+s96yIoPrdi5R\nOR4hOMR8gXeqS6od9u3oCmm1zIKQ4QhVkn8h7wAYTEoFba3UhRmfWDkMgGv7Wdry\npqILRCxJGWAG4ehFm/W/Gz1YyWwiDhu38ZXiQDHdvP2LbQ65uExglGgs4wuraJap\nyTd50esJlrYi6nabpN+/YpVl0XoliA6+SkapJb8/6rtQD1PZE5utEKjF/ZjgUtw+\nSiGWz8FkwmjK1O1hb6Zi/b5XVPVLZnjH7aWS/Oo9tASQlJ+bOZdnU5nkxXpylDaH\nkebkzXgbAgMBAAECggEAMIIGQYQDoDcZ/MLaSedqkiGyCJ0Rkf2aBvhv+44h3wrM\nzSWOUMCw0IQ0ZHdJWrSj0Qeh0TtkMEPqtII4R+uB5im3nJNON9yygDUdz9YbVEZ4\nEPLV8Botj6HoRVDV01JGPrQ22cWLd2B16Lpsl3In1shdJUTzcnn1Sk2CPAPB1k6o\n5WZ9yDu2Z8AP3GaLPjhdgSXLmvyQ0yPMZABqJJLQP71UiBANr1H0N5SZbBKcQV1W\n24a0PJYT5Xib/JEF8fiannX4EQY1N+COLQSekqCMtUg8p5d3ULfmjxOEHvE4Q9yB\nf26SwjxU0adxqHQ6qTmAKV21pF4fhRSDS/VNPcoYYQKBgQDWvk8KXSUsqt2qgGpF\nDeW5RIc1ui3aTRJ7K2ysqRAgFg1St/SuNxQf3RiGNmatfFz13QIxDlftM/NZtAyC\nzmnSfHjkGknVsq6D/iy+4vv2YXTl4RdPXkNIcBWt5TzJxoiIjWieAN45/+4i8IOa\nouABFT8wbhN1BQdQtzttg8PPoQKBgQDANMnqLc4oJoaMjAPdEJ/LL0ar1tBh7Hht\nuFJmfPMlG3dP3Bb6ZL0oo9XHsKChfcokDdBVzcXPWiBTMGePn/pit7JllkGuQs0k\n874eZm6GU5LD/pjRKHcdgY9+2A/BCopYvuW6NjPqYzoFLNPOxy4EM2bS7T5IQDSZ\nadbRoD/eOwKBgF+agGPzzg4Rz/gNjcJKiqCt0qhnx+wtbfHqBkrkRaqTRsEx5rv9\nB3ecHkP6SkIoYNaQ213trdWL0GZ6UyuVK+WqxsN+tKpwD2PyMAeX1Gb/QmTpjlAm\nfjvssqolqaeHPNfWZOIbLtSRjXp+q4iXxLSWufgcuYraf0Q/HzUFeZKhAoGADwcR\nkmGqcLEya+K2mp4mIDi+Cclt2XonoEx9BM5YJFqVZYULtuAReg/1Mvu4U2gGWfNK\niqrgAGpHhLmQH0aeyQEbzZ2F3R4T9AOqpa3UjmQSYYiSYigLyB7NHVm/QZSVZILo\nazq5rGW9r5HlrZEdI+7w5yTtbbC3bBc+WH1zAOkCgYBJaHoZOyVeD32eZ5+lzE3e\n3s9ZsIA8apdG10pLO42H4gHx0n0I6jqW+6pMFlbCa4gtL4C3ipp38PhqXFNL397x\niZOLZrD2lacW+2dJXTnLLKSsWGL6kFyhMR989vsumezLmiUtHsXu5mhFPQgMLAzi\nAoHnYcSYpk37f9J8hoSTWQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "octobercms-analytics@cobalt-list-275917.iam.gserviceaccount.com",
+  "client_id": "116855039324978489987",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/octobercms-analytics%40cobalt-list-275917.iam.gserviceaccount.com"
+}

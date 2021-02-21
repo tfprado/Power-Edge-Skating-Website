@@ -1,0 +1,64 @@
+1613862396a:1:{s:26:"training/team-training.htm";a:11:{s:8:"fileName";s:26:"training/team-training.htm";s:7:"content";s:1953:"title = "Team Training"
+url = "/team-training"
+layout = "default"
+meta_description = "Power Edge Skating offers team training designed for all levels of hockey players, with a focus on teaching the technical side of skating which impacts the skaters balance, control, agility and power. Contact us now to find out more!"
+is_hidden = 0
+
+[emptyForm formTeamTraining]
+group = "Team Training Lessons"
+rules[name] = "required"
+rules[email] = "required|email"
+rules[message] = "required"
+rules_messages[name.required] = "Please fill in your full name."
+rules_messages[email.required] = "Please fill in your contact information."
+rules_messages[email.email] = "Not a valid email address."
+rules_messages[group-size.required] = "Please tell us how large your group is!"
+rules_messages[message.required] = "Please give us as much information as possible to better assist you!"
+messages_success = "Your form was successfully submitted"
+messages_errors = "There were errors with your submission"
+mail_enabled = 1
+mail_subject = "New contact about: {{ form.subject }}"
+mail_recipients[] = "info@poweredgeskating.com"
+reset_form = 1
+inline_errors = "display"
+sanitize_data = "disabled"
+anonymize_ip = "disabled"
+recaptcha_enabled = 1
+recaptcha_theme = "light"
+recaptcha_type = "image"
+recaptcha_size = "normal"
+emails_date_format = "Y-m-d"
+==
+{% partial 'snippets/title' %}
+<div class="card mx-auto" style="width: 80%;">
+    <div class="card-body">
+        <h6 class="contact-title mb-2">
+            Team training available upon request.*
+            <br>
+            <span>
+                Please email
+                <a href="mailto:info@poweredgeskating.com">info@poweredgeskating.com</a>
+                or use the form below.
+            </span>
+            <br>
+                        <span class="font-weight-bold">*ice is not included</span>
+        </h6>
+    </div>
+</div>
+{% component 'formTeamTraining' %}";s:5:"mtime";i:1610125900;s:6:"markup";s:592:"{% partial 'snippets/title' %}
+<div class="card mx-auto" style="width: 80%;">
+    <div class="card-body">
+        <h6 class="contact-title mb-2">
+            Team training available upon request.*
+            <br>
+            <span>
+                Please email
+                <a href="mailto:info@poweredgeskating.com">info@poweredgeskating.com</a>
+                or use the form below.
+            </span>
+            <br>
+                        <span class="font-weight-bold">*ice is not included</span>
+        </h6>
+    </div>
+</div>
+{% component 'formTeamTraining' %}";s:4:"code";N;s:5:"title";s:13:"Team Training";s:3:"url";s:14:"/team-training";s:6:"layout";s:7:"default";s:16:"meta_description";s:233:"Power Edge Skating offers team training designed for all levels of hockey players, with a focus on teaching the technical side of skating which impacts the skaters balance, control, agility and power. Contact us now to find out more!";s:9:"is_hidden";s:1:"0";s:26:"emptyForm formTeamTraining";a:17:{s:5:"group";s:21:"Team Training Lessons";s:5:"rules";a:3:{s:4:"name";s:8:"required";s:5:"email";s:14:"required|email";s:7:"message";s:8:"required";}s:14:"rules_messages";a:5:{s:13:"name.required";s:30:"Please fill in your full name.";s:14:"email.required";s:40:"Please fill in your contact information.";s:11:"email.email";s:26:"Not a valid email address.";s:19:"group-size.required";s:39:"Please tell us how large your group is!";s:16:"message.required";s:68:"Please give us as much information as possible to better assist you!";}s:16:"messages_success";s:36:"Your form was successfully submitted";s:15:"messages_errors";s:38:"There were errors with your submission";s:12:"mail_enabled";s:1:"1";s:12:"mail_subject";s:37:"New contact about: {{ form.subject }}";s:15:"mail_recipients";a:1:{i:0;s:25:"info@poweredgeskating.com";}s:10:"reset_form";s:1:"1";s:13:"inline_errors";s:7:"display";s:13:"sanitize_data";s:8:"disabled";s:12:"anonymize_ip";s:8:"disabled";s:17:"recaptcha_enabled";s:1:"1";s:15:"recaptcha_theme";s:5:"light";s:14:"recaptcha_type";s:5:"image";s:14:"recaptcha_size";s:6:"normal";s:18:"emails_date_format";s:5:"Y-m-d";}}}

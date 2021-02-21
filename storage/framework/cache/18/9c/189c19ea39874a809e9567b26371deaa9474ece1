@@ -1,0 +1,71 @@
+1613862395a:1:{s:17:"layout/header.htm";a:9:{s:8:"fileName";s:17:"layout/header.htm";s:7:"content";s:2025:"description = "Main Navigation"
+
+[viewBag]
+
+[staticMenu]
+code = "default-navigation"
+
+[searchInput]
+useAutoComplete = 1
+autoCompleteResultCount = 5
+showProviderBadge = 1
+==
+<nav class="navbar navbar-light {% if this.layout.id == 'fixed-navigation' %} fixed-top{% endif %}" style="background-color: #a1c5da">
+    <!-- <img style="width: 200px;" src="{{ 'logo-latest.png'|media }}" class="img-fluid" alt="Power Edge Skating Logo" /> -->
+    <a class="navbar-brand mx-auto" href="/">
+        <!-- <img src="{{ 'logo-latest.png'|media }}" class="img-fluid" alt="Power Edge Skating Logo" /> -->
+        <h1 class="top-header">Power Edge Skating</h1>
+    </a>
+</nav>
+<nav class="navbar navbar-expand-lg navbar-dark{% if this.layout.id == 'fixed-navigation' %} fixed-top-navigation {% endif %}" style="background-color: #125772">
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarMain" style="color:#cbcdd9;"
+        aria-controls="navbarMain" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse" id="navbarMain">
+        <!-- snip1211 -->
+        <ul class="navbar-nav mx-auto snip1198">
+            <!--<li class="nav-item active">
+                <a class="nav-link {% if this.page.id == 'index' %} active {% endif %}" href="{{ 'index'|page }}">Home</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link disabled" href="#">Disabled</a>
+            </li>-->
+            {% partial 'navigation/nav-link' items=staticMenu.menuItems class='mx-2' %}
+        </ul>
+        <!-- <form class="form-inline my-2 my-lg-0" action="{{ 'search' | page }}" method="get">
+            <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search" required>
+            <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+        </form> -->
+    </div>
+</nav>";s:5:"mtime";i:1588510489;s:6:"markup";s:1840:"<nav class="navbar navbar-light {% if this.layout.id == 'fixed-navigation' %} fixed-top{% endif %}" style="background-color: #a1c5da">
+    <!-- <img style="width: 200px;" src="{{ 'logo-latest.png'|media }}" class="img-fluid" alt="Power Edge Skating Logo" /> -->
+    <a class="navbar-brand mx-auto" href="/">
+        <!-- <img src="{{ 'logo-latest.png'|media }}" class="img-fluid" alt="Power Edge Skating Logo" /> -->
+        <h1 class="top-header">Power Edge Skating</h1>
+    </a>
+</nav>
+<nav class="navbar navbar-expand-lg navbar-dark{% if this.layout.id == 'fixed-navigation' %} fixed-top-navigation {% endif %}" style="background-color: #125772">
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarMain" style="color:#cbcdd9;"
+        aria-controls="navbarMain" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse" id="navbarMain">
+        <!-- snip1211 -->
+        <ul class="navbar-nav mx-auto snip1198">
+            <!--<li class="nav-item active">
+                <a class="nav-link {% if this.page.id == 'index' %} active {% endif %}" href="{{ 'index'|page }}">Home</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link disabled" href="#">Disabled</a>
+            </li>-->
+            {% partial 'navigation/nav-link' items=staticMenu.menuItems class='mx-2' %}
+        </ul>
+        <!-- <form class="form-inline my-2 my-lg-0" action="{{ 'search' | page }}" method="get">
+            <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search" required>
+            <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+        </form> -->
+    </div>
+</nav>";s:4:"code";N;s:11:"description";s:15:"Main Navigation";s:7:"viewBag";a:0:{}s:10:"staticMenu";a:1:{s:4:"code";s:18:"default-navigation";}s:11:"searchInput";a:3:{s:15:"useAutoComplete";s:1:"1";s:23:"autoCompleteResultCount";s:1:"5";s:17:"showProviderBadge";s:1:"1";}}}

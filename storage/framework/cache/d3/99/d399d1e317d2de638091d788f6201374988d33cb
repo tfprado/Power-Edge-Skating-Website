@@ -1,0 +1,69 @@
+1613862395a:1:{s:23:"contactForm/default.htm";a:5:{s:8:"fileName";s:23:"contactForm/default.htm";s:7:"content";s:1138:"<form data-request="{{ __SELF__ }}::onFormSubmit">
+
+    {{ form_token() }}
+
+    <div id="{{ __SELF__ }}_forms_flash"></div>
+
+    <div class="form-row">
+        <div class="form-group col-md-6">
+            <label for="name" class="required">Name:</label>
+            <input type="text" id="name" name="name" class="form-control">
+        </div>
+        <div class="form-group col-md-6">
+            <label for="email" class="required">Email:</label>
+            <input type="text" id="email" name="email" class="form-control">
+        </div>
+
+    </div>
+
+    <div class="form-group">
+        <label for="subject" class="required">Subject:</label>
+        <input type="text" id="subject" name="subject" class="form-control">
+    </div>
+
+    <div class="form-group">
+		<label for="message" class="required">Message:</label>
+        <textarea id="comments" name="message" rows="2" class="form-control"></textarea>
+    </div>
+
+    <div class="form-group">
+        {% partial '@recaptcha' %}
+    </div>
+
+    <button id="simpleContactSubmitButton" type="submit" class="btn btn-primary">Submit</button>
+
+</form>";s:5:"mtime";i:1584494664;s:6:"markup";s:1138:"<form data-request="{{ __SELF__ }}::onFormSubmit">
+
+    {{ form_token() }}
+
+    <div id="{{ __SELF__ }}_forms_flash"></div>
+
+    <div class="form-row">
+        <div class="form-group col-md-6">
+            <label for="name" class="required">Name:</label>
+            <input type="text" id="name" name="name" class="form-control">
+        </div>
+        <div class="form-group col-md-6">
+            <label for="email" class="required">Email:</label>
+            <input type="text" id="email" name="email" class="form-control">
+        </div>
+
+    </div>
+
+    <div class="form-group">
+        <label for="subject" class="required">Subject:</label>
+        <input type="text" id="subject" name="subject" class="form-control">
+    </div>
+
+    <div class="form-group">
+		<label for="message" class="required">Message:</label>
+        <textarea id="comments" name="message" rows="2" class="form-control"></textarea>
+    </div>
+
+    <div class="form-group">
+        {% partial '@recaptcha' %}
+    </div>
+
+    <button id="simpleContactSubmitButton" type="submit" class="btn btn-primary">Submit</button>
+
+</form>";s:4:"code";N;}}

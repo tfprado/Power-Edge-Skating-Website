@@ -1,0 +1,135 @@
+1612922052a:1:{s:29:"formgrouptraining/default.htm";a:5:{s:8:"fileName";s:29:"formgrouptraining/default.htm";s:7:"content";s:3577:"<div class="row top-spacer justify-content-center bottom-spacer">
+    <div class="col-8">
+        <form data-request="{{ __SELF__ }}::onFormSubmit" data-request-validate>
+
+            {{ form_token() }}
+
+            <div id="{{ __SELF__ }}_forms_flash"></div>
+
+            <div class="form-row">
+                <div class="form-group col-md-6">
+                    <label for="name" class="required">Name:</label>
+                    <input type="text" id="name" name="name" class="form-control">
+                    <div data-validate-for="name" class="mt-1 text-danger"></div>
+                </div>
+                <div class="form-group col-md-6">
+                    <label for="email" class="required">Email:</label>
+                    <input type="text" id="email" name="email" class="form-control">
+                    <div data-validate-for="email" class="mt-1 text-danger"></div>
+                </div>
+
+            </div>
+            <input type="hidden" id="subject" name="subject" class="form-control" value="{{this.page.title}}">
+            <div class="form-row">
+                <div class="form-group col-md-6">
+                    <label for="location" class="optional">Preferred Location/Arena:</label>
+                    <input type="text" id="location" name="location" class="form-control"
+                        placeholder="Example Arena, 123 Example Street...">
+                </div>
+                <div class="form-group col-md-6">
+                    <label for="preferred-week-day" class="optional">Preferred week day:</label>
+                    <select class="form-control" id="preferred-week-day" name="preferred-week-day">
+                        <option value="No Preference">No Preference</option>
+                        <option value="Monday">Monday</option>
+                        <option value="Tuesday">Tuesday</option>
+                        <option value="Wednesday">Wednesday</option>
+                        <option value="Thursday">Thursday</option>
+                        <option value="Friday">Friday</option>
+                        <option value="Saturday">Saturday</option>
+                        <option value="Sunday">Sunday</option>
+                    </select>
+                </div>
+
+            </div>
+            <div class="form-row">
+                <div class="form-group col-md-6">
+                    <label for="group-size" class="required">Group Size:</label>
+                    <select class="form-control" id="group-size" name="group-size">
+                        <option value="3-5">3-5</option>
+                        <option value="6-8">6-8</option>
+                    </select>
+                    <div data-validate-for="group-size" class="mt-1 text-danger"></div>
+                    <div class="form-group mt-3">
+                        {% partial '@recaptcha' %}
+                        <div data-validate-for="g-recaptcha-response" class="mt-1 text-danger"></div>
+                    </div>
+                </div>
+                <div class="form-group col-md-6">
+                    <label for="message" class="required">Message:</label>
+                    <textarea id="comments" name="message" rows="4" cols="40" class="form-control"></textarea>
+                    <div data-validate-for="message" class="mt-1 text-danger"></div>
+                </div>
+            </div>
+
+            <button id="simpleContactSubmitButton" type="submit" class="btn btn-primary">Contact us!</button>
+
+        </form>
+    </div>
+</div>";s:5:"mtime";i:1587936099;s:6:"markup";s:3577:"<div class="row top-spacer justify-content-center bottom-spacer">
+    <div class="col-8">
+        <form data-request="{{ __SELF__ }}::onFormSubmit" data-request-validate>
+
+            {{ form_token() }}
+
+            <div id="{{ __SELF__ }}_forms_flash"></div>
+
+            <div class="form-row">
+                <div class="form-group col-md-6">
+                    <label for="name" class="required">Name:</label>
+                    <input type="text" id="name" name="name" class="form-control">
+                    <div data-validate-for="name" class="mt-1 text-danger"></div>
+                </div>
+                <div class="form-group col-md-6">
+                    <label for="email" class="required">Email:</label>
+                    <input type="text" id="email" name="email" class="form-control">
+                    <div data-validate-for="email" class="mt-1 text-danger"></div>
+                </div>
+
+            </div>
+            <input type="hidden" id="subject" name="subject" class="form-control" value="{{this.page.title}}">
+            <div class="form-row">
+                <div class="form-group col-md-6">
+                    <label for="location" class="optional">Preferred Location/Arena:</label>
+                    <input type="text" id="location" name="location" class="form-control"
+                        placeholder="Example Arena, 123 Example Street...">
+                </div>
+                <div class="form-group col-md-6">
+                    <label for="preferred-week-day" class="optional">Preferred week day:</label>
+                    <select class="form-control" id="preferred-week-day" name="preferred-week-day">
+                        <option value="No Preference">No Preference</option>
+                        <option value="Monday">Monday</option>
+                        <option value="Tuesday">Tuesday</option>
+                        <option value="Wednesday">Wednesday</option>
+                        <option value="Thursday">Thursday</option>
+                        <option value="Friday">Friday</option>
+                        <option value="Saturday">Saturday</option>
+                        <option value="Sunday">Sunday</option>
+                    </select>
+                </div>
+
+            </div>
+            <div class="form-row">
+                <div class="form-group col-md-6">
+                    <label for="group-size" class="required">Group Size:</label>
+                    <select class="form-control" id="group-size" name="group-size">
+                        <option value="3-5">3-5</option>
+                        <option value="6-8">6-8</option>
+                    </select>
+                    <div data-validate-for="group-size" class="mt-1 text-danger"></div>
+                    <div class="form-group mt-3">
+                        {% partial '@recaptcha' %}
+                        <div data-validate-for="g-recaptcha-response" class="mt-1 text-danger"></div>
+                    </div>
+                </div>
+                <div class="form-group col-md-6">
+                    <label for="message" class="required">Message:</label>
+                    <textarea id="comments" name="message" rows="4" cols="40" class="form-control"></textarea>
+                    <div data-validate-for="message" class="mt-1 text-danger"></div>
+                </div>
+            </div>
+
+            <button id="simpleContactSubmitButton" type="submit" class="btn btn-primary">Contact us!</button>
+
+        </form>
+    </div>
+</div>";s:4:"code";N;}}

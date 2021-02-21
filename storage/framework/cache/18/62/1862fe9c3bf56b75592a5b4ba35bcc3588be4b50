@@ -1,0 +1,67 @@
+1613862395a:1:{s:22:"layout/default-css.htm";a:6:{s:8:"fileName";s:22:"layout/default-css.htm";s:7:"content";s:2366:"description = "Shared head tag for default layout"
+==
+<meta charset="utf-8">
+<meta name="google-site-verification" content="B4V-IJBTemlwT965qi5Z4fQ-ak415X0g0hFUh1Tp-uk" />
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+<meta name="title" content="{% if this.page.meta_title %}{{ this.page.meta_title }}{% else %}{{ this.page.title }} | {{ this.theme.app_name }}{% endif %}">
+<meta name="description" content="{% if this.page.meta_description %}{{ this.page.meta_description }}{% else %}{{ this.theme.meta_description }}{% endif %}">
+<meta name="keywords" content="{{ this.theme.default_meta_keywords }}">
+
+<!-- Open Graph -->
+<meta property="og:title" content="{% if this.page.meta_title %}{{ this.page.meta_title }}{% else %}{{ this.page.title }}{% endif %}" />
+<meta property="og:description" content="{% if this.page.meta_description %}{{ this.page.meta_description }}{% else %}{{ this.theme.meta_description }}{% endif %}" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="{% if staticPage.page.url %}{{ staticPage.page.url| app }}{% else %}{{ ''| app}}{% endif %}" />
+
+<link rel="icon" href="{{ 'assets/public/images/power-favicon.ico'|theme }}">
+<link rel="apple-touch-icon" sizes="180x180" href="{{ 'assets/public/images/apple-touch-icon.png'|theme }}">
+<link rel="icon" type="image/png" sizes="32x32" href="{{ 'assets/public/images/favicon-32x32.png'|theme }}">
+<link rel="icon" type="image/png" sizes="16x16" href="{{ 'assets/public/images/favicon-16x16.png'|theme }}">
+<!-- <link rel="manifest" href="{{ 'assets/public/images/site.webmanifest'|theme }}"> -->
+<link rel="stylesheet" href="{{ [
+    'assets/public/css/app.css',
+    'assets/public/css/vendor.css'
+    ]|theme }}">
+
+<link href="https://fonts.googleapis.com/css?family=Open+Sans&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Lato&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Cormorant+SC&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Playfair+Display+SC&display=swap" rel="stylesheet">
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+{% styles %}
+
+<title>{{ this.page.title }} | {{ this.theme.app_name }}</title>";s:5:"mtime";i:1590200983;s:6:"markup";s:2310:"<meta charset="utf-8">
+<meta name="google-site-verification" content="B4V-IJBTemlwT965qi5Z4fQ-ak415X0g0hFUh1Tp-uk" />
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+<meta name="title" content="{% if this.page.meta_title %}{{ this.page.meta_title }}{% else %}{{ this.page.title }} | {{ this.theme.app_name }}{% endif %}">
+<meta name="description" content="{% if this.page.meta_description %}{{ this.page.meta_description }}{% else %}{{ this.theme.meta_description }}{% endif %}">
+<meta name="keywords" content="{{ this.theme.default_meta_keywords }}">
+
+<!-- Open Graph -->
+<meta property="og:title" content="{% if this.page.meta_title %}{{ this.page.meta_title }}{% else %}{{ this.page.title }}{% endif %}" />
+<meta property="og:description" content="{% if this.page.meta_description %}{{ this.page.meta_description }}{% else %}{{ this.theme.meta_description }}{% endif %}" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="{% if staticPage.page.url %}{{ staticPage.page.url| app }}{% else %}{{ ''| app}}{% endif %}" />
+
+<link rel="icon" href="{{ 'assets/public/images/power-favicon.ico'|theme }}">
+<link rel="apple-touch-icon" sizes="180x180" href="{{ 'assets/public/images/apple-touch-icon.png'|theme }}">
+<link rel="icon" type="image/png" sizes="32x32" href="{{ 'assets/public/images/favicon-32x32.png'|theme }}">
+<link rel="icon" type="image/png" sizes="16x16" href="{{ 'assets/public/images/favicon-16x16.png'|theme }}">
+<!-- <link rel="manifest" href="{{ 'assets/public/images/site.webmanifest'|theme }}"> -->
+<link rel="stylesheet" href="{{ [
+    'assets/public/css/app.css',
+    'assets/public/css/vendor.css'
+    ]|theme }}">
+
+<link href="https://fonts.googleapis.com/css?family=Open+Sans&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Lato&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Cormorant+SC&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Playfair+Display+SC&display=swap" rel="stylesheet">
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+{% styles %}
+
+<title>{{ this.page.title }} | {{ this.theme.app_name }}</title>";s:4:"code";N;s:11:"description";s:34:"Shared head tag for default layout";}}

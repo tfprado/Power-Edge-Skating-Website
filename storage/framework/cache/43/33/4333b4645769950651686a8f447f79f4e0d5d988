@@ -1,0 +1,17 @@
+1613862395a:1:{s:25:"development/jumbotron.htm";a:5:{s:8:"fileName";s:25:"development/jumbotron.htm";s:7:"content";s:305:"<div class="jumbotron mb-0">
+
+    <h1 class="display-4">This can be a carousel or static header!</h1>
+
+    <p class="lead">It will have indicators and multiple images</p>
+    <hr class="my-4">
+
+    <p>It is a call to action with a link!</p><a class="btn btn-primary" href="#">Learn more</a>
+</div>";s:5:"mtime";i:1583091235;s:6:"markup";s:305:"<div class="jumbotron mb-0">
+
+    <h1 class="display-4">This can be a carousel or static header!</h1>
+
+    <p class="lead">It will have indicators and multiple images</p>
+    <hr class="my-4">
+
+    <p>It is a call to action with a link!</p><a class="btn btn-primary" href="#">Learn more</a>
+</div>";s:4:"code";N;}}

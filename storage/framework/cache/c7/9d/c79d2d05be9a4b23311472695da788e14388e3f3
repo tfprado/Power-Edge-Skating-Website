@@ -1,0 +1,14 @@
+1613862396a:1:{s:19:"calendar/events.htm";a:11:{s:8:"fileName";s:19:"calendar/events.htm";s:7:"content";s:253:"title = "Events"
+url = "/calendar/:event_slug/:event_id/"
+layout = "default"
+description = "Display Single Events"
+is_hidden = 0
+
+[proEvent]
+event_id = ":event_id"
+==
+<div class="top-spacer sides-spacer">
+    {% component 'proEvent' %}
+</div>";s:5:"mtime";i:1583808282;s:6:"markup";s:77:"<div class="top-spacer sides-spacer">
+    {% component 'proEvent' %}
+</div>";s:4:"code";N;s:5:"title";s:6:"Events";s:3:"url";s:32:"/calendar/:event_slug/:event_id/";s:6:"layout";s:7:"default";s:11:"description";s:21:"Display Single Events";s:9:"is_hidden";s:1:"0";s:8:"proEvent";a:1:{s:8:"event_id";s:9:":event_id";}}}

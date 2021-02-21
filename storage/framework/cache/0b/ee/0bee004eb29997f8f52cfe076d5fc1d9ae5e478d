@@ -1,0 +1,153 @@
+1613862395a:1:{s:22:"snippets/socialBar.htm";a:7:{s:8:"fileName";s:22:"snippets/socialBar.htm";s:7:"content";s:2105:"description = "Social Links"
+
+[viewBag]
+snippetCode = "social-bar"
+snippetName = "Social Bar"
+snippetProperties[facebook][title] = "Facebook Link"
+snippetProperties[facebook][type] = "string"
+snippetProperties[facebook][default] = ""
+snippetProperties[facebook][options][] = ""
+snippetProperties[instagram][title] = "Instagram Link"
+snippetProperties[instagram][type] = "string"
+snippetProperties[instagram][default] = ""
+snippetProperties[instagram][options][] = ""
+==
+<style>
+/* Fixed/sticky icon bar (vertically aligned 50% from the top of the screen) */
+.icon-bar {
+  position: fixed;
+  top: 46px;
+  right: 0;
+  -webkit-transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+  z-index: 1;
+}
+
+/* Style the icon bar links */
+.icon-bar a {
+  display: block;
+  text-align: center;
+  padding: 8px;
+  transition: all 0.3s ease;
+  color: white;
+  font-size: 20px;
+}
+
+/* Style the social media icons with color, if you want */
+.icon-bar a:hover {
+  background-color: #000;
+}
+
+.facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.instagram {
+  background: #55ACEE;
+  color: white;
+}
+
+
+.twitter {
+  background: #55ACEE;
+  color: white;
+}
+
+.google {
+  background: #dd4b39;
+  color: white;
+}
+
+.linkedin {
+  background: #007bb5;
+  color: white;
+}
+
+.youtube {
+  background: #bb0000;
+  color: white;
+}
+</style>
+
+<!-- The social media icon bar -->
+<div class="icon-bar">
+  <a target="_blank" href="{% if facebook %}{{facebook}}{% else %}https://www.facebook.com/poweredgeskating/{% endif %}" class="facebook"><i class="fa fa-facebook"></i></a>
+  <a target="_blank" href="{% if instagram %}{{instagram}}{% else %}https://www.instagram.com/poweredgeskating/{% endif %}" class="instagram"><i class="fa fa-instagram"></i></a>
+<!-- 
+<a href="#" class="twitter"><i class="fa fa-twitter"></i></a>
+  <a href="#" class="google"><i class="fa fa-google"></i></a>
+  <a href="#" class="linkedin"><i class="fa fa-linkedin"></i></a>
+  <a href="#" class="youtube"><i class="fa fa-youtube"></i></a>
+-->
+</div>";s:5:"mtime";i:1610125325;s:6:"markup";s:1621:"<style>
+/* Fixed/sticky icon bar (vertically aligned 50% from the top of the screen) */
+.icon-bar {
+  position: fixed;
+  top: 46px;
+  right: 0;
+  -webkit-transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+  z-index: 1;
+}
+
+/* Style the icon bar links */
+.icon-bar a {
+  display: block;
+  text-align: center;
+  padding: 8px;
+  transition: all 0.3s ease;
+  color: white;
+  font-size: 20px;
+}
+
+/* Style the social media icons with color, if you want */
+.icon-bar a:hover {
+  background-color: #000;
+}
+
+.facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.instagram {
+  background: #55ACEE;
+  color: white;
+}
+
+
+.twitter {
+  background: #55ACEE;
+  color: white;
+}
+
+.google {
+  background: #dd4b39;
+  color: white;
+}
+
+.linkedin {
+  background: #007bb5;
+  color: white;
+}
+
+.youtube {
+  background: #bb0000;
+  color: white;
+}
+</style>
+
+<!-- The social media icon bar -->
+<div class="icon-bar">
+  <a target="_blank" href="{% if facebook %}{{facebook}}{% else %}https://www.facebook.com/poweredgeskating/{% endif %}" class="facebook"><i class="fa fa-facebook"></i></a>
+  <a target="_blank" href="{% if instagram %}{{instagram}}{% else %}https://www.instagram.com/poweredgeskating/{% endif %}" class="instagram"><i class="fa fa-instagram"></i></a>
+<!-- 
+<a href="#" class="twitter"><i class="fa fa-twitter"></i></a>
+  <a href="#" class="google"><i class="fa fa-google"></i></a>
+  <a href="#" class="linkedin"><i class="fa fa-linkedin"></i></a>
+  <a href="#" class="youtube"><i class="fa fa-youtube"></i></a>
+-->
+</div>";s:4:"code";N;s:11:"description";s:12:"Social Links";s:7:"viewBag";a:3:{s:11:"snippetCode";s:10:"social-bar";s:11:"snippetName";s:10:"Social Bar";s:17:"snippetProperties";a:2:{s:8:"facebook";a:4:{s:5:"title";s:13:"Facebook Link";s:4:"type";s:6:"string";s:7:"default";s:0:"";s:7:"options";a:1:{i:0;s:0:"";}}s:9:"instagram";a:4:{s:5:"title";s:14:"Instagram Link";s:4:"type";s:6:"string";s:7:"default";s:0:"";s:7:"options";a:1:{i:0;s:0:"";}}}}}}

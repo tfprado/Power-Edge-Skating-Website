@@ -1,0 +1,100 @@
+1613862396a:1:{s:9:"index.htm";a:11:{s:8:"fileName";s:9:"index.htm";s:7:"content";s:2141:"title = "Under Construction"
+url = "/maintenance"
+layout = "maintenance"
+description = "Login page for the rest of the website"
+is_hidden = 0
+
+[account]
+paramCode = "code"
+forceSecure = 0
+requirePassword = 0
+==
+<div class="row justify-content-center top-spacer">
+    <div class="col-md-6 text-center pr-md-5">
+        <h1 class="display-4">Power Edge Skating</h1>
+        <p>
+            <small class="lead font-weight-normal">
+                Website Under Construction.
+            </small>
+        </p>
+        <p>
+            <small class="lead font-weight-normal">
+                Email <a href="mailto:info@poweredgeskating.com">info@poweredgeskating.com</a> for more information.
+            </small>
+        </p>
+        {% if not user %}
+        <div class="col-12">
+            <h3>Sign in</h3>
+            {{ form_ajax('onSignin') }}
+            <div class="form-group">
+                <label for="userSigninLogin">{{ loginAttributeLabel }}</label>
+                <input name="login" type="text" class="form-control" id="userSigninLogin"
+                    placeholder="Enter your {{ loginAttributeLabel|lower }}" />
+            </div>
+        
+            <div class="form-group">
+                <label for="userSigninPassword">Password</label>
+                <input name="password" type="password" class="form-control" id="userSigninPassword"
+                    placeholder="Enter your password" />
+            </div>
+        
+            {% if rememberLoginMode == 'ask' %}
+            <div class="form-group">
+                <div class="checkbox">
+                    <label><input name="remember" type="checkbox" value="1">Stay logged in</label>
+                </div>
+            </div>
+            {% endif %}
+            <button type="submit" class="btn btn-primary">Sign in</button>
+            {{ form_close() }}
+        </div>
+        {% else %}
+        <a class="btn btn-primary" href="/home ">Home</a>
+        {% endif %}
+        <img class="img-fluid mb-5" src="{{ 'skates-hanging-cropped.jpg'|media }}" alt="" width="270" height="227">
+    </div>
+</div>";s:5:"mtime";i:1588364592;s:6:"markup";s:1919:"<div class="row justify-content-center top-spacer">
+    <div class="col-md-6 text-center pr-md-5">
+        <h1 class="display-4">Power Edge Skating</h1>
+        <p>
+            <small class="lead font-weight-normal">
+                Website Under Construction.
+            </small>
+        </p>
+        <p>
+            <small class="lead font-weight-normal">
+                Email <a href="mailto:info@poweredgeskating.com">info@poweredgeskating.com</a> for more information.
+            </small>
+        </p>
+        {% if not user %}
+        <div class="col-12">
+            <h3>Sign in</h3>
+            {{ form_ajax('onSignin') }}
+            <div class="form-group">
+                <label for="userSigninLogin">{{ loginAttributeLabel }}</label>
+                <input name="login" type="text" class="form-control" id="userSigninLogin"
+                    placeholder="Enter your {{ loginAttributeLabel|lower }}" />
+            </div>
+        
+            <div class="form-group">
+                <label for="userSigninPassword">Password</label>
+                <input name="password" type="password" class="form-control" id="userSigninPassword"
+                    placeholder="Enter your password" />
+            </div>
+        
+            {% if rememberLoginMode == 'ask' %}
+            <div class="form-group">
+                <div class="checkbox">
+                    <label><input name="remember" type="checkbox" value="1">Stay logged in</label>
+                </div>
+            </div>
+            {% endif %}
+            <button type="submit" class="btn btn-primary">Sign in</button>
+            {{ form_close() }}
+        </div>
+        {% else %}
+        <a class="btn btn-primary" href="/home ">Home</a>
+        {% endif %}
+        <img class="img-fluid mb-5" src="{{ 'skates-hanging-cropped.jpg'|media }}" alt="" width="270" height="227">
+    </div>
+</div>";s:4:"code";N;s:5:"title";s:18:"Under Construction";s:3:"url";s:12:"/maintenance";s:6:"layout";s:11:"maintenance";s:11:"description";s:38:"Login page for the rest of the website";s:9:"is_hidden";s:1:"0";s:7:"account";a:3:{s:9:"paramCode";s:4:"code";s:11:"forceSecure";s:1:"0";s:15:"requirePassword";s:1:"0";}}}

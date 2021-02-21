@@ -1,0 +1,9 @@
+1613862394a:1:{s:25:"about-us-testimonials.htm";a:7:{s:8:"fileName";s:25:"about-us-testimonials.htm";s:7:"content";s:480:"[viewBag]
+title = "Testimonials"
+url = "/about-us/testimonials"
+layout = "default"
+is_hidden = 0
+navigation_hidden = 0
+meta_description = "Here is what coaches and parents are saying about Power Edge Skating! Our unique program allows hockey skaters of any level improve their fundamentals of skating. We focus on teaching the technical side of skating which impacts the skaters balance, control, agility and power."
+==
+<figure data-snippet="testimonials3">&nbsp;</figure>";s:5:"mtime";i:1588517522;s:6:"markup";s:52:"<figure data-snippet="testimonials3">&nbsp;</figure>";s:4:"code";N;s:7:"viewBag";a:6:{s:5:"title";s:12:"Testimonials";s:3:"url";s:22:"/about-us/testimonials";s:6:"layout";s:7:"default";s:9:"is_hidden";s:1:"0";s:17:"navigation_hidden";s:1:"0";s:16:"meta_description";s:276:"Here is what coaches and parents are saying about Power Edge Skating! Our unique program allows hockey skaters of any level improve their fundamentals of skating. We focus on teaching the technical side of skating which impacts the skaters balance, control, agility and power.";}s:12:"parsedMarkup";s:52:"<figure data-snippet="testimonials3">&nbsp;</figure>";}}
